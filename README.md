@@ -29,8 +29,6 @@ The first step in building the neural model for the dataset was to convert it in
 
 
 
-	![getdummies](https://github.com/amshanaa/deep-learning-challenge/assets/136298119/7af16a9b-5868-46f8-80a0-e07212cde5cb)
-
 
 
         What variable(s) are the target(s) for your model?
