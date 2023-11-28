@@ -26,15 +26,7 @@ In order to satisfy the ask of Alphabet Soup Organization, the feature that was 
 
 The first step in building the neural model for the dataset was to convert it into a dataframe and then applied the pandas function "getdummies" in the code below:
 
-
-	STATUS 	ASK_AMT 	IS_SUCCESSFUL 	APPLICATION_TYPE_T10 	APPLICATION_TYPE_T12 	APPLICATION_TYPE_T13 	APPLICATION_TYPE_T14 	APPLICATION_TYPE_T15 	APPLICATION_TYPE_T17 	APPLICATION_TYPE_T19 	... 	INCOME_AMT_1-9999 	INCOME_AMT_10000-24999 	INCOME_AMT_100000-499999 	INCOME_AMT_10M-50M 	INCOME_AMT_1M-5M 	INCOME_AMT_25000-99999 	INCOME_AMT_50M+ 	INCOME_AMT_5M-10M 	SPECIAL_CONSIDERATIONS_N 	SPECIAL_CONSIDERATIONS_Y
-0 	1 	5000 	1 	1 	0 	0 	0 	0 	0 	0 	... 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0
-1 	1 	108590 	1 	0 	0 	0 	0 	0 	0 	0 	... 	1 	0 	0 	0 	0 	0 	0 	0 	1 	0
-2 	1 	5000 	0 	0 	0 	0 	0 	0 	0 	0 	... 	0 	0 	0 	0 	0 	0 	0 	0 	1 	0
-3 	1 	6692 	1 	0 	0 	0 	0 	0 	0 	0 	... 	0 	1 	0 	0 	0 	0 	0 	0 	1 	0
-4 	1 	142590 	1 	0 	0 	0 	0 	0 	0 	0 	... 	0 	0 	1 	0 	0 	0 	0 	0 	1 	0
-
-5 rows × 117 columns
+https://colab.research.google.com/drive/14WLyVVplWJ9VYMS_ORG44_k5QVjqbih1#scrollTo=_7lfC5F-rleD&line=3&uniqifier=1
 
 
 	
