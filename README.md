@@ -75,7 +75,7 @@ This is the result after the second run
 ![result2](https://github.com/amshanaa/deep-learning-challenge/assets/136298119/ebc6f137-5467-475e-b391-53e43a487f26)
 
 
-This is the result after the thrid run
+This is the result after the third run
 
 ![chgmdl3](https://github.com/amshanaa/deep-learning-challenge/assets/136298119/e5858add-239e-49b3-8cf9-a237daa7a6eb)
 
