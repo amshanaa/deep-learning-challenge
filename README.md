@@ -27,6 +27,7 @@ In order to satisfy the ask of Alphabet Soup Organization, the feature that was 
 The first step in building the neural model for the dataset was to convert it into a dataframe and then applied the pandas function "getdummies" in the code below:
 
 
+![getdummies](https://github.com/amshanaa/deep-learning-challenge/assets/136298119/c2238f5d-5c77-4efe-9448-c231fd25d892)
 
 
 
